@@ -11,7 +11,7 @@ public class names {
     String[] Students = {"John Baptist", "Lund Strong"};
         System.out.println(names.length);
 
-    ex04();
+    ex05();
 
 }
 
